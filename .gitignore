@@ -1,0 +1,6 @@
+bin/
+.direnv/
+docs/book/
+.venv
+__pycache__
+.pytest_cache
