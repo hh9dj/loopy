@@ -1,6 +1,6 @@
 bin/
 .direnv/
-docs/book/
+plan/book/
 .venv
 __pycache__
 .pytest_cache
