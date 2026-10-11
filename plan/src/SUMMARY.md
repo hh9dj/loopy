@@ -1,0 +1,17 @@
+# Summary
+
+- [Event Loop / Async Runtime](./index.md)
+  - [Stage 0: Setup](./stage-0.md)
+  - [Stage 1: A bare loop with `call_soon`](./stage-1.md)
+  - [Stage 2: Timers (`call_later`)](./stage-2.md)
+  - [Stage 3: Readiness polling with `selectors`](./stage-3.md)
+  - [Stage 4: The complete loop tick](./stage-4.md)
+  - [Stage 5: Generators as coroutines](./stage-5.md)
+  - [Stage 6: `yield from` delegation](./stage-6.md)
+  - [Stage 7: Futures and Tasks](./stage-7.md)
+  - [Stage 8: Native coroutines](./stage-8.md)
+  - [Stage 9: `gather`](./stage-9.md)
+  - [Stage 10: Async socket I/O primitives](./stage-10.md)
+  - [Stage 11: Echo server end-to-end](./stage-11.md)
+  - [Stage 12: Cancellation & exception propagation](./stage-12.md)
+  - [Stage 13: Drop-in asyncio comparison](./stage-13.md)
